@@ -169,3 +169,13 @@ footer {
         margin-left: 0;
     }
 }
+
+.img-responsive,
+.thumbnail > img,
+.thumbnail a > img,
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+  display: inline;
+  max-width: 100%;
+  height: auto;
+}

@@ -33,6 +33,7 @@ body {
 }
 
 .featurette {
+
     overflow: hidden;
 }
 
@@ -169,3 +170,4 @@ footer {
         margin-left: 0;
     }
 }
+
